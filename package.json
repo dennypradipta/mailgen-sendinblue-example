@@ -1,0 +1,16 @@
+{
+  "name": "mailgen-sendinblue-example",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "mailgen": "^2.0.14",
+    "morgan": "~1.9.1",
+    "sib-api-v3-sdk": "^8.0.2"
+  }
+}
